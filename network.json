@@ -1,0 +1,18 @@
+{
+  "chainId": 20260903,
+  "chainIdHex": "0x1352827",
+  "chainName": "RichX Chain",
+  "nativeCurrency": {
+    "name": "RichX Coin",
+    "symbol": "RICHX",
+    "decimals": 18
+  },
+  "rpcUrls": [
+    "https://rpc.richxchain.com"
+  ],
+  "blockExplorerUrls": [
+    "https://richxscan.com"
+  ],
+  "evmVersion": "london",
+  "updated": "2026-11-13T06:48:14+00:00"
+}
