@@ -44,6 +44,10 @@ RXC-20 is the token standard on RichX Chain. It has the same interface as ERC-20
 
 Machine-readable: [`network.json`](network.json)
 
+**Explorer API.** Etherscan-compatible: `https://api.richxscan.com/api`  
+Examples: `?module=account&action=balance&address=<address>` · `?module=account&action=txlist&address=<address>` · `?module=account&action=tokentx&address=<address>` · `?module=stats&action=tokensupply&contractaddress=<token>`  
+REST: `https://api.richxscan.com/api/v2/` — explorer: https://richxscan.com
+
 **Add RichX Chain to a wallet.** In MetaMask or any Ethereum-compatible wallet choose "Add a network manually" and enter the values above. To see a token, choose "Import token" and paste its contract address.
 
 <p align="center"><img src="https://raw.githubusercontent.com/richxchain/richx-chain/main/assets/head-directory.svg" width="100%" alt="DIRECTORY"></p>
