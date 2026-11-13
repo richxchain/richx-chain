@@ -12,6 +12,7 @@
 | Code on chain | 8,855 bytes |
 | SHA-256 of the code on chain | `7709423ea7bb416b7476bef9fe7a2841a611aa725d11e76f83afa4b1be40e43b` |
 | Explorer | https://richxscan.com/address/0x7023Bb290be415b05491bBBaa45f4D15e4407E46 |
+| Verified on the explorer | https://api.richxscan.com/api/v2/smart-contracts/0x7023Bb290be415b05491bBBaa45f4D15e4407E46 (compiler v0.8.20+commit.a1b79de6, optimizer on, EVM london) |
 
 The code size and its fingerprint were read from the chain on 2026-11-13 06:48 UTC. Anyone can read the same code from the chain with `eth_getCode` and compare.
 
