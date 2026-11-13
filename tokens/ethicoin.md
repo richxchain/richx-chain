@@ -15,6 +15,7 @@ Ethicoin (ETHIC+) is a gold-indexed token on RichX Chain. It is gold-indexed, no
 | Chain | RichX Chain, ID 20260903 |
 | Explorer | https://richxscan.com |
 | Website | https://ethicoin.org |
+| Verified on the explorer | https://api.richxscan.com/api/v2/smart-contracts/0x7023Bb290be415b05491bBBaa45f4D15e4407E46 (compiler v0.8.20+commit.a1b79de6, optimizer on, EVM london) |
 | Contract source | [EthicoinRichX.sol](../contracts/EthicoinRichX.sol) · [what it says](../contracts/README.md) |
 
 [Back to RichX Chain](../README.md)
