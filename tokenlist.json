@@ -1,0 +1,40 @@
+{
+  "name": "RichX Chain Token List",
+  "timestamp": "2026-11-13T06:48:14+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "keywords": [
+    "richx",
+    "richx chain"
+  ],
+  "tokens": [
+    {
+      "chainId": 20260903,
+      "address": "0x7023Bb290be415b05491bBBaa45f4D15e4407E46",
+      "name": "Ethicoin",
+      "symbol": "ETHIC+",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/richxchain/richx-chain/main/logos/ethicoin.png"
+    },
+    {
+      "chainId": 20260903,
+      "address": "0xFcf33b5bd3Ec789cCc05Ba04388B309224eD5065",
+      "name": "Bitcoin RXC",
+      "symbol": "RBTX",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/richxchain/richx-chain/main/logos/bitcoin-rxc.png"
+    },
+    {
+      "chainId": 20260903,
+      "address": "0x48e420AdFdff4feA0B8B043e4fe655f1d0cE09eA",
+      "name": "Mr Fluffy",
+      "symbol": "FLUFF",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/richxchain/richx-chain/main/logos/mr-fluffy.png"
+    }
+  ],
+  "logoURI": "https://raw.githubusercontent.com/richxchain/richx-chain/main/logos/richx.png"
+}
